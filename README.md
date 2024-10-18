@@ -14,19 +14,32 @@
 - Lúc này bạn đã vào thư mục chính, để sử dụng tool follow các bước sau: 
     - `python main.py`
 - Nhập đường dẫn tuyệt đối vô:
-<br>
-<div style="text-align: center;">
-    <img src="./Asset/1.png">
-</div>
-<br>
+
+    - ![image1](./Asset/1.png)
+
 - Nhập tên file xuất ra (chú ý thêm đuôi .md):
-<br>
-<div style="text-align: center;">
-    <img src="./Asset/2.png">
-</div>
-<br>
+
+    - ![image2](./Asset/2.png)
+
 - File output sẽ được lưu trong thư mục Output.
-<br>
+
+- Để cho ra kết quả tốt nhất, class nên viết như thế này:
+    ```C
+        class X {
+            private:
+                int a;
+                float b;
+            public:
+                int c;
+                void d();
+        };
+    ```
+
+- Nếu đủ sự bully dành cho thằng bucky Thế Anh thì tôi sẽ tiếp tục phát triển tool này đến khi kết thúc học phần OOP.
+
+**Hãy để lại cho mình một like, subscribe, share, tim trên tiktok và star trên github nhé**
+
+****
 
 ***Mọi thắc mắc, yêu cầu cải tiến, phát hiện bug. Hãy liên hệ với chủ Repo này để được giải quyết.***
 
