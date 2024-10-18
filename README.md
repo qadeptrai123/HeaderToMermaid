@@ -4,6 +4,14 @@
 
 - Trước hết bạn phải đã cài đặt git và python.
 
+- Cài đặt các thư viện như sau nếu bạn chưa cài:
+
+```bash
+    pip install os 
+    pip install shutil
+    pip install subprocess
+```
+
 - Mở terminal hoặc VSCode lên và đi tới thư mục bạn muốn lưu trữ và gõ lệnh:
 
     - `git clone https://github.com/qadeptrai123/HeaderToMermaid`
